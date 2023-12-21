@@ -11,7 +11,7 @@ entry.grid(column=1, row=0)
 label = tkinter.Label(text="Miles")
 label.grid(column=2, row=0)
 
-label_2 = tkinter.Label(text="is equal to")
+label_2 = tkinter.Label(text="is equal to:")
 label_2.grid(column=0, row=1)
 
 converted_num = ""
