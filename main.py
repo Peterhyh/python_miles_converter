@@ -24,7 +24,7 @@ def convert_to_km():
     answer_label.config(text=f"{answer}")
 
 
-answer_label = tkinter.Label(text="--")
+answer_label = tkinter.Label(text="**")
 answer_label.grid(column=1, row=1)
 
 label_3 = tkinter.Label(text="is equal to")
