@@ -27,7 +27,7 @@ def convert_to_km():
 answer_label = tkinter.Label(text="**")
 answer_label.grid(column=1, row=1)
 
-label_3 = tkinter.Label(text="is equal to ")
+label_3 = tkinter.Label(text="is equal to")
 label_3.grid(column=2, row=1)
 
 button = tkinter.Button(text="Calculate", command=convert_to_km)
